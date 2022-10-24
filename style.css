@@ -12,3 +12,20 @@ p{
     color:black;
     font-size: 25px;
 }
+
+
+
+
+ #imagem1{
+    width:100%;
+ }
+ 
+ .itens{
+    font-style:italic;
+
+ }
+
+ .beneficios{
+    background-color:white;
+    text-align: left;
+ }
